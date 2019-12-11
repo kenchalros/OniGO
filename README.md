@@ -1,5 +1,6 @@
 # OniGo
-- [FireFox](https://www.mozilla.org/ja/firefox/developer/)で動作。Chromeでは動作しないので注意
+Chromeで動作確認
+https://kenchalros.github.io/OniGo/
 
 ## 操作方法
 **↑**で前進。**←**, **→** で方向転換。**shift**(左)でダッシュします。
